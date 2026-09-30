@@ -1,5 +1,5 @@
 # I CERTIFICADO DE EXTENSIÓN UNIVERSITARIA EN COMPUTACIÓN Y TECNOLOGÍAS CUÁNTICAS (2026-27)
-## Jupyter notebooks para el Módulo 2: Arquitecturas Cuánticas
+## Jupyter notebooks para el Módulo 2: Circuitos cuánticos
 ### Departamento de Arquitectura de Computadores, UMA
 
 Jupiter notebooks para este módulo:
